@@ -1,4 +1,6 @@
 # sorbkey
+`Wito Bejmak/Böhmak v.1.0`
+
 Provide simple xkb keyboard layout for Sorbian languages Upper Sorbian (hsb) and Lower Sorbian (dsb) for Linux/X11 (e.g Ubuntu desktop).  It is based on the German keyboard. 
 
 It simply adds the keystrokes to get Sorbian characters with caron sign + base letter (e.g. č,ž,š,ě,ř) using circumflex (dead) key (keycode TLDE). 
